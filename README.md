@@ -1,0 +1,1 @@
+<script src="https://satoshibox.com/js/embed.js" type="text/javascript" crossorigin="anonymous"></script><a href="http://satoshibox.com/47ko3y6ieh7jszncv7mzftk2" class="satoshibox-link"><img src="https://satoshibox.com/img/button-bitcoin.svg" alt="Buy with Bitcoin"></a>

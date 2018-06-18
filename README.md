@@ -1,7 +1,10 @@
 
-The fcoin brushing fee tool written by the Chinese was very easy to use. I cracked it. Now, as long as you spend 0.004 BTC, you can own it without spending  ¥2688 or even higher.1.Buy with Bitcoin  but Authorized in 2,2. Authorized and new fcoin and okex and huobi robot
-If you don’t want to use the first program.
-The second is authorization. Forgot to put the decryption key. To compensate you, the second one comes from another set of trading robots.
+  
+  The fcoin brushing fee tool written by the Chinese was very easy to use. I cracked it. Now, as long as you spend 0.004 BTC, you can own it without spending  ¥2688 or even higher.1.Buy with Bitcoin  but Authorized in 2,2. Authorized and new fcoin and okex and huobi robot
+  
+  If you don’t want to use the first program.
+  
+  The second is authorization. Forgot to put the decryption key. To compensate you, the second one comes from another set of trading robots.
 
 1,
 ![image]( https://github.com/luxianyou/fcoin/blob/master/effect.png)
